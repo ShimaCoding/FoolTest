@@ -17,6 +17,6 @@ public class owo : MonoBehaviour
     }
     public void ElPolloSeHaceKK()
     {
-        Debug.Log("Me hago kk");
+        //polloGay
     }
 }
